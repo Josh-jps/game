@@ -4,7 +4,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         Scanner input = new Scanner(System.in);
         
-        
+        //new
         System.out.println("Please enter 5 Students and their IDs and GPA");
     
         Student[] students = new Student[5];
